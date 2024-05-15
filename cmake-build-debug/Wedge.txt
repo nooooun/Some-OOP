@@ -1,0 +1,9 @@
+wedge1
+3
+2
+wedge2
+3.3
+3
+wedge3
+2
+10

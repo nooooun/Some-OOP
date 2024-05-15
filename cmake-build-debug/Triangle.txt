@@ -1,0 +1,4 @@
+triangle1
+6
+triangle2
+4
